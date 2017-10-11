@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "your app name",
+    "description": "your app desc",
+    "sdkVersion": "21.0.0",
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  }
+}
